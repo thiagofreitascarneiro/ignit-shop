@@ -17,6 +17,7 @@ export default function Home() {
     slides: {
       perView: 3,
       spacing: 48, 
+      
     }
   })
 
