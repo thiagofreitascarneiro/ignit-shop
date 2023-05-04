@@ -19,7 +19,7 @@ export default function Home() {
           </footer>
         </Product>
         <Product>
-          <Image src={camiseta2} width={520} height={400} alt={""}/>
+          <Image src={camiseta3} width={520} height={400} alt={""}/>
 
           <footer>
             <strong>Camiseta X</strong>
